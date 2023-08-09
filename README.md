@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Czech Republic</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jan-blaska&label=Profile%20views&color=0e75b6&style=flat" alt="jan-blaska" /> </p>
-
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **HTML, CSS, javaScript**
